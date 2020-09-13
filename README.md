@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: complete machine learning basics
-- ⚡ Fun fact: air contains Hydrogen and Oxygen !!
+- ⚡ Fun fact: air contains Hydrogen and Oxygen !!!
