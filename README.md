@@ -4,7 +4,7 @@
 
 <br />
 
-- 🔭 I’m currently working on Data Science projects for more informations check my repositories. 
+- 🔭 I’m currently working on Machine Learning projects for more informations check my repositories.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and personal branding coaches
 - 🥅 2020 Goals: complete machine learning basics  from scratch
