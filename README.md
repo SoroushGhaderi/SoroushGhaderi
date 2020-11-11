@@ -1,6 +1,6 @@
 ### Hi there, I'm [Soroush!](https://soroushghaderi.github.io/) 👋
 
-## I'm a Data Analysis / Data Science enthusiastic!
+# A Data Analysis / Data Science enthusiastic!
 
 <br />
 
